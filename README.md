@@ -1,4 +1,4 @@
-# "_ChatGPT as a Conversational Recommender System: A User-Centric Analysis_"
+# "_ChatGPT as a Conversational Recommender System: A User-Centric Analysis_ UMAP 24"
 
 We report the data and compile results for our research work published in ACM UMAP 2024. 
 
